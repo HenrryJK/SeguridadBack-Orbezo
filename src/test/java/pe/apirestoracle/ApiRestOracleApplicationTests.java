@@ -18,7 +18,8 @@ class ApiRestOracleApplicationTests {
 PasswordEncoder passwordEncoder;
 @Test
 void contextLoads() {
-	System.out.println(passwordEncoder.encode("123"));
+	System.out.println(passwordEncoder.encode("321"));
 }
 		
 }
+/*321 , 258*/
